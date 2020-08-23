@@ -1,4 +1,4 @@
-# _**Samurai-j-pk says:**_
+_**Samurai-j-pk says:**_
 
 I plan to talk about my journey towards becoming an operational, self-sustaining and self-sufficient coder, doing data analysis tasks related to trading, i.e. automization, modelling and optimization. Basically, becoming a ronin-style kungfu-master, trained in the martial arts of data science.
 

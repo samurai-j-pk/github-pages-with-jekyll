@@ -8,6 +8,3 @@ Also, I'm not yet convinced GitHub is the best means of floating a blog. I might
 
 
 (PS: Yes, I do know japanese bushido is not the same as chinese kungfu... but sam-jack, an ecclectic pragmatist and a worthy role model, was trained in both.)
-
-
-I'll be back soon. Cheers!

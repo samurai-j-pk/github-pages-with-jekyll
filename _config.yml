@@ -1,11 +1,11 @@
 title: Data-KungFu
-author: GitHub User
-email: your-email@domain.com
+author: samurai-j-pk
+email: Not yet
 description: > # this means to ignore newlines until "baseurl:"
   Documentation of my learning experience, and of the projects contributions I produce along the way.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Twitter-is-the-scurge-of-social-media # DO NOT include the @ character, or else the build will fail!
 github_username:  samurai-j-pk # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
